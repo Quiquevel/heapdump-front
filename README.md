@@ -1,2 +1,2 @@
-# heapdump-front
-Streamlit front for heapdump project
+# shuttle-openshift-front-dump
+streamlit
